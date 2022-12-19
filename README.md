@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycaegekayhan&label=Profile%20views&color=0e75b6&style=flat" alt="aycaegekayhan" /> </p>
 
-- 🔭 I’m currently working on [Blog Website](https://github.com/aycaegekayhan/NoteIt)
+- 🔭 I’m currently working on [Musify Music App](https://github.com/aycaegekayhan/musify)
 
 - 🌱 I’m currently learning **Data Analyst course by Google**
 
